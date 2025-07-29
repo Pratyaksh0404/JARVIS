@@ -32,7 +32,7 @@ A Python-based **offline virtual assistant** that can listen to your commands, s
 
 ```
 voice-assistant/
-├── assistant.py        # Main script (all logic)
+├── python assistant.py        # Main script (all logic)
 ├── requirements.txt    # Required Python packages
 └── README.md           
 ```
